@@ -6,7 +6,7 @@ compatibility_date = "2024-06-13"
 # 这是 wrangler.toml 在Pages项目中最重要的作用
 [[kv_namespaces]]
 binding = "MISUB_KV"
-id = "9796c49ed5a3405aabbbc066d4686ce3" # 请确保这里是你正确的 KV ID
+id = "672b3e1b8718420a9577adf4f8739169" # 请确保这里是你正确的 KV ID
 preview_id = "db1e91b764d14234b38c0a233878b040" # 请确保这里是你正确的预览 KV ID
 
 # D1 数据库绑定
